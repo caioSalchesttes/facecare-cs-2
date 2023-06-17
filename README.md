@@ -22,4 +22,4 @@ FaceCare é uma plataforma online projetada para conectar pacientes que enfrenta
 
 ## Como Executar o Projeto Localmente
 
-Url: 
+Url: https://caiosalchesttes.github.io/facecare-cs-2/
