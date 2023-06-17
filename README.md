@@ -19,7 +19,3 @@ FaceCare é uma plataforma online projetada para conectar pacientes que enfrenta
 - Ricardo Sampaio Fogaça - 86603
 - Gabriel Antonio Do Rego - 88420
 - Sthefanie Aiko Yoshicava Dutra - 87493
-
-## Como Executar o Projeto Localmente
-
-Url: https://caiosalchesttes.github.io/facecare-cs-2/
