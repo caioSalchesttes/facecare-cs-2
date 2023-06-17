@@ -13,8 +13,8 @@ form.addEventListener('submit', function(event) {
         event.preventDefault();
         // Mostra um alerta se os campos estiverem vazios
         alert('Por favor, preencha todos os campos do formulário antes de enviar.');
+    }else{
+        alert("Formulário enviado com sucesso!");
     }
-
-    alert("Formulário enviado com sucesso!");
 });
 
